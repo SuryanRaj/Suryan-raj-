@@ -35,22 +35,48 @@ I am a highly motivated **Computer Science Undergraduate** specializing in **Qua
 
 ---
 
-## 🛠️ Enterprise Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Featured+Engineering+Projects;High-Frequency+Architecture;Algorithmic+Trading+Systems" alt="Typing SVG Projects" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/SuryanRaj/Limit-Order-Book-LOB-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuryanRaj&repo=Limit-Order-Book-LOB-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf&text_color=a9b1d6" alt="LOB Engine Card" width="48%" />
+  </a>
+  <a href="https://github.com/SuryanRaj/monte_carlo-simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuryanRaj&repo=monte_carlo-simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf&text_color=a9b1d6" alt="Monte Carlo Card" width="48%" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <a href="https://github.com/SuryanRaj/cpp-sma-backtester">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuryanRaj&repo=cpp-sma-backtester&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf&text_color=a9b1d6" alt="SMA Backtester Card" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7b2cbf&center=true&vCenter=true&width=400&lines=Core+Competencies;Tech+Stack+%26+Tools" alt="Typing SVG Skills" />
+</div>
 
 <div align="center">
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,c&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,c&theme=dark&perline=4" alt="Languages" />
   </a>
   <br />
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github&theme=dark&perline=5" alt="Tools" />
   </a>
   <br />
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws&theme=dark" alt="Backend & Cloud" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws&theme=dark&perline=4" alt="Backend & Cloud" />
   </a>
   <br />
 </div>
@@ -65,61 +91,6 @@ I am a highly motivated **Computer Science Undergraduate** specializing in **Qua
 | **Market Microstructure** | Intermediate | Building high-frequency limit order books (LOB) and robust matching engines. |
 | **Financial Modeling** | Advanced | Implementing Monte Carlo simulations for accurate option pricing and risk assessment. |
 | **Low-Latency Systems** | Intermediate | Optimizing C++ architectures for microsecond execution times and memory safety. |
-
----
-
-## 🚀 Featured Infrastructure Projects
-
-<details>
-  <summary><b>📊 Limit Order Book (LOB) Matching Engine</b></summary>
-  <br/>
-  <blockquote>A high-performance C++ matching engine that mathematically simulates exchange market microstructure and order flow dynamics.</blockquote>
-  
-  | Attribute | Implementation Details |
-  | :--- | :--- |
-  | **Stack** | `C++` |
-  | **Scale** | Engineered to process high-frequency order flows with minimal bottlenecking. |
-  | **Performance** | Optimized for microsecond-latency insertions, modifications, and order matching. |
-  | **Security** | Robust memory management to prevent leaks, segmentation faults, and overflows. |
-  | **Impact** | Demonstrates deep architectural understanding of real-world financial exchanges. |
-
-  🔗 **Repository:** [SuryanRaj/Limit-Order-Book-LOB-](https://github.com/SuryanRaj/Limit-Order-Book-LOB-)
-  <br/><br/>
-</details>
-
-<details>
-  <summary><b>🎲 Stochastic Monte Carlo Simulator</b></summary>
-  <br/>
-  <blockquote>A computational tool for modeling the probability of complex outcomes in financial processes, heavily utilized in derivatives pricing.</blockquote>
-
-  | Attribute | Implementation Details |
-  | :--- | :--- |
-  | **Stack** | `Python` / `C++` |
-  | **Scale** | Handles thousands of simulated stochastic paths (e.g., Geometric Brownian Motion). |
-  | **Performance** | Utilizes vectorized mathematical operations for rapid algorithmic convergence. |
-  | **Security** | Secure and immutable handling of historical financial data inputs. |
-  | **Impact** | Validates statistical risk and accurately prices options under various volatility models. |
-
-  🔗 **Repository:** [SuryanRaj/monte_carlo-simulator](https://github.com/SuryanRaj/monte_carlo-simulator)
-  <br/><br/>
-</details>
-
-<details>
-  <summary><b>📈 C++ SMA Strategy Backtester</b></summary>
-  <br/>
-  <blockquote>An institutional-grade algorithmic trading backtesting framework focused on Simple Moving Average (SMA) crossover strategies.</blockquote>
-
-  | Attribute | Implementation Details |
-  | :--- | :--- |
-  | **Stack** | `C++` |
-  | **Scale** | Processes massive datasets of historical tick/bar data natively without memory bloat. |
-  | **Performance** | Highly optimized execution loop for rapid historical trade simulations. |
-  | **Security** | Strict immutable historical data loading protocols to prevent look-ahead bias. |
-  | **Impact** | Provides actionable PnL, Sharpe ratio, and maximum drawdown metrics for strategy validation. |
-
-  🔗 **Repository:** [SuryanRaj/cpp-sma-backtester](https://github.com/SuryanRaj/cpp-sma-backtester)
-  <br/><br/>
-</details>
 
 ---
 
@@ -167,11 +138,11 @@ I am a highly motivated **Computer Science Undergraduate** specializing in **Qua
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryanRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryanRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7b2cbf&cache_bust=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryanRaj&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7b2cbf&currStreakLabel=9D4EDD" alt="GitHub Streak" width="48%" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&cache_bust=1" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -179,7 +150,7 @@ I am a highly motivated **Computer Science Undergraduate** specializing in **Qua
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuryanRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SuryanRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache_bust=1" alt="Trophies" />
 </div>
 
 ---
